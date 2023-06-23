@@ -1,6 +1,9 @@
 # stack-script-0
 Basic Stack-Oriented Scripting Language
 
+## Dependency
+.NET SDK, 6 or newer
+
 ## Build
 ```sh
 dotnet build
